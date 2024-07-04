@@ -1,8 +1,8 @@
 <h1>Control Systems</h1>
 
-Please find a repository containing the following folders/files:
+Please find a repository containing the following folders/files for review:
 
-	1. Source Code			x1 Crestron and x1 AMX project for review
+	1. Source Code			x1 Crestron and x1 AMX project
 	2. Sample Projects.pdf		Details of large scale projects completed at AVMI 
 	3. Sample Screenshots.pdf	x7 Crestron and AMX projects completed at AVMI
 	4. Sample Workflows.pdf		Details of design and development work processes while at AVMI
