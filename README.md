@@ -14,17 +14,19 @@ Please find a repository containing the following folders/files for review:
 
 **/Source Code:**
 
-	AVMI - NOC Video Wall - Digital Signage - v1.zip
+	Folder contains x1 Crestron and x1 AMX project for review:
 
-		- Crestron Archive
-		- Video Wall and DM-NVX Digital Signage Management and Control
-		- 3-Series Processor
+		AVMI - NOC Video Wall - Digital Signage - v1.zip
 
-	TCR - AVMI - City Office - Meeting Room 3 - 280314.AXW
+			- Crestron Archive
+			- Video Wall and DM-NVX Digital Signage Management and Control
+			- 3-Series Processor
 
-		- AMX Archive
-		- Meeting Room with Integrated Cisco C-Series and Presentation
-		- DVX-Series Processor
+		TCR - AVMI - City Office - Meeting Room 3 - 280314.AXW
+
+			- AMX Archive
+			- Meeting Room with Integrated Cisco C-Series and Presentation
+			- DVX-Series Processor
 
 	Download Archives:
 
