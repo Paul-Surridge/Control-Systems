@@ -3,9 +3,14 @@
 Please find a repository containing the following folders/files:
 
 	1. Source Code			x1 Crestron and x1 AMX project for review
-	2. Sample Projects.pdf		Details of projects completed at AVMI 
+	2. Sample Projects.pdf		Details of large scale projects completed at AVMI 
 	3. Sample Screenshots.pdf	x7 Crestron and AMX projects completed at AVMI
 	4. Sample Workflows.pdf		Details of work processes completed at AVMI
+
+	Download PDF:
+
+		1. Click on file.
+		2. Click on download icon that appears on right hand side of header.
 
 **/Source Code:**
 
@@ -23,5 +28,5 @@ Please find a repository containing the following folders/files:
 
 	Download Archives:
 
-		1. Click on file
-		2. Click on download icon that appears on right hand side of header
+		1. Click on file.
+		2. Click on download icon that appears on right hand side of header.
