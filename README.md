@@ -23,7 +23,7 @@ Please find a repository containing the following folders/files:
 	TCR - AVMI - City Office - Meeting Room 3 - 280314.AXW
 
 		- AMX Archive
-		- Meeting Room Integrated Cisco C-Series and Presentation
+		- Meeting Room with Integrated Cisco C-Series and Presentation
 		- DVX-Series Processor
 
 	Download Archives:
