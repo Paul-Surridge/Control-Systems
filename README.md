@@ -21,6 +21,7 @@ Please find a repository containing the following folders/files for review:
 			- Crestron Archive
 			- Video Wall and DM-NVX Digital Signage Management and Control
 			- 3-Series Processor
+			- Screenshots can be found in Sample Screenshots.pdf
 
 		TCR - AVMI - City Office - Meeting Room 3 - 280314.AXW
 
